@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132956523974",
+    "firebase_url": "https://testproject-be8ad-default-rtdb.firebaseio.com",
+    "project_id": "testproject-be8ad",
+    "storage_bucket": "testproject-be8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132956523974:android:e22d28866cb38a961776c7",
+        "android_client_info": {
+          "package_name": "com.elouaizi.ayoub.fbasevideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132956523974-pqfqjkejg7kerjcs2ihol2pitb1q8qnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWeKVccwn9NtmBew46oGCJO2jZnDmhA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132956523974-pqfqjkejg7kerjcs2ihol2pitb1q8qnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
